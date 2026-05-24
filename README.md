@@ -45,8 +45,6 @@
 
 ### 🏆 GitHub Başarılarım ve İstatistiklerim
 
-*Videodaki gibi GitHub istatistiklerinin dinamik olarak çekildiği bölüm.*
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Zoilista&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=6" alt="Trophies" />
 </div>
